@@ -1,0 +1,6 @@
+127.0.0.1 - - [07/May/2019:17:53:40 +0800] "GET / HTTP/1.0" 200 107745 http-bio-8082-exec-1 723
+127.0.0.1 - - [07/May/2019:17:53:40 +0800] "GET /images/taotao-logo.gif HTTP/1.0" 304 - http-bio-8082-exec-2 464
+127.0.0.1 - - [07/May/2019:17:53:40 +0800] "GET /js/lib-v1.js HTTP/1.0" 304 - http-bio-8082-exec-3 12
+127.0.0.1 - - [07/May/2019:17:53:41 +0800] "GET /favicon.ico HTTP/1.0" 404 973 http-bio-8082-exec-4 2
+127.0.0.1 - - [07/May/2019:18:13:45 +0800] "GET /14.html HTTP/1.0" 404 949 http-bio-8082-exec-1 51
+127.0.0.1 - - [07/May/2019:18:13:55 +0800] "GET /item/14.html HTTP/1.0" 200 34245 http-bio-8082-exec-2 474
